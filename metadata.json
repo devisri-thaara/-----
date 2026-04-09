@@ -1,0 +1,5 @@
+{
+  "name": "Weather Pro Max",
+  "description": "A premium-level weather application with glassmorphism design, real-time API integration, and advanced weather animations.",
+  "requestFramePermissions": ["geolocation"]
+}
